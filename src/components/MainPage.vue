@@ -55,6 +55,7 @@ export default {
 <style scoped>
 h1 {
   color: #473dff;
+  text-align: center;
 }
 
 h2 {
