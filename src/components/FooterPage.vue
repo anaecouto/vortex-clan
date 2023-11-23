@@ -6,8 +6,9 @@
 
 <style>
 .copyright {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: rgb(0, 0, 0);
-  color: white;
+  color: #4a4a4a;
 }
 </style>
 
